@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eholmquist01
 - 👀 I’m interested in computer science, mathematics, statistics, and data science!
-- 🌱 I’m currently learning C and furthering my knowledge of Python
+- 🌱 My current work is in C and Python (although this page is solely dedicated to Python so far!)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy rowing and sailing in my free time!
 
